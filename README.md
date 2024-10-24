@@ -81,24 +81,15 @@ Before you begin, ensure you have met the following requirements:
 - `POST /api/auth/signup`: Register a new user
 - `POST /api/auth/login`: Authenticate a user and receive a JWT
 
-## Contributing
 
-Contributions to this project are welcome. Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature-name`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature-name`)
-5. Create a new Pull Request
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License 
 
 ## Contact
 
 If you have any questions or feedback, please contact:
 
-Your Name - your.email@example.com
+Zac - zacarmani@proton.me
 
-Project Link: [https://github.com/your-username/nextjs-login-project](https://github.com/your-username/nextjs-login-project)
